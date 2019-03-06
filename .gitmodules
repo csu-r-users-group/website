@@ -1,3 +1,7 @@
 [submodule "themes/hugo-lithium"]
 	path = themes/hugo-lithium
 	url = git@github.com:yihui/hugo-lithium.git
+[submodule "csu-r-users-group.github.io"]
+	path = csu-r-users-group.github.io
+	url = git@github.com:csu-r-users-group/csu-r-users-group.github.io.git
+	branch = master
