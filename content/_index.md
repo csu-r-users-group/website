@@ -5,7 +5,7 @@ menu: main
 
 # Welcome to the R Users Group at [Colorado State University](colostate.edu)
 
-We are a community researchers and scientists at Colorado State
+We are a community of researchers and scientists at Colorado State
 University interested in learning the programming language R.
 
 We host weekly meetings to discuss R. Some weeks we have presentations
