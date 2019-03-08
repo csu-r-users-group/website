@@ -14,17 +14,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/"
 	weight = 1
 [[menu.main]]
+    name = "Announcements"
+    url = "/post/"
+	weight = 2
+[[menu.main]]
     name = "Scheduled Talks"
     url = "/talks/"
-	weight = 1
+	weight = 3
 [[menu.main]]
     name = "About"
     url = "/about/"
-	weight = 2
+	weight = 4
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/csu-r-users-group"
-	weight = 3
+	weight = 5
 	
 
 [params]
