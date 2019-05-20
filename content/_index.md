@@ -16,7 +16,7 @@ or just hang out.
 
 # Meeting Information
 
-Time: Drop in hours Monday 3 - 5 pm
+Time: Drop in hours Wednesday 3 - 5 pm
 
 Location: E005 Plant Sciences on CSU Campus 
 
